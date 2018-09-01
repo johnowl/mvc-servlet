@@ -1,0 +1,7 @@
+<dataset>
+    <usuario login="joao" nome="João da Silva" email="joao@email.com.br" senha="abc123" pontos="100" />
+    <usuario login="maria" nome="Maria Tereza" email="mt@gmail.com" senha="password" pontos="0" />
+    <topico login="joao" id_topico="1" titulo="Tópico 1" conteudo="Olá, esse é meu primeiro tópico" /> 
+    <topico login="joao" id_topico="2" titulo="Tópico 2" conteudo="Esse é o tópico 2." /> 
+    <comentario login="maria" id_topico="1" comentario="Legal! Gostei do seu tópico." /> 
+</dataset>
